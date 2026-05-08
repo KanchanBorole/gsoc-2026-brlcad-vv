@@ -1,1 +1,41 @@
+# Environment Setup Notes
 
+## System
+- OS: Ubuntu 24.04.3 LTS
+
+## Tools Installed
+- gcc, cmake, git
+- Qt 6.11.0
+- Visual Studio Code
+
+## Setup Steps
+
+### BRL-CAD
+- Cloned from: https://github.com/BRL-CAD/brlcad
+- Built from source
+- Installed at: ~/work/inst/brlcad
+- Version: 7.43.0
+
+### MOOSE
+- Cloned from: https://github.com/BRL-CAD/MOOSE
+- Build flags used:
+  - BRLCAD_STATIC_LINK=OFF
+  - MODULE_COMMANDString=ON
+- Installed at: ~/work/inst/moose
+
+### Arbalest
+- Cloned from: https://github.com/BRL-CAD/arbalest
+- cmake command used:
+  cmake ~/work/src/arbalest 
+  -DCMAKE_BUILD_TYPE=Debug 
+  -DBRLCAD_MOOSE_DIR=~/work/inst/moose
+  -DBRLCAD__BASE_DIR=~/work/inst/brlcad
+- Successfully built and run ✅
+
+## Issues Faced
+- BRL-CAD source build failed on Windows due to 
+  dependency errors
+- Shifted to Linux (Ubuntu 24.04.3) for smoother 
+  build process
+- MOOSE path issue — fixed by installing 
+  at ~/work/inst/moose
