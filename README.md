@@ -1,10 +1,12 @@
 # GSoC 2026 — Geometry Verification and Validation GUI in Qt
 
--**Organization:** BRL-CAD
--**Program:** Google Summer of Code 2026
--**Contributor:** Kanchan Borole
--**Mentors:** Divyanshu Garg, Himanshu Sekhar Nayak
+**Organization:** BRL-CAD
 
+**Program:** Google Summer of Code 2026
+
+**Contributor:** Kanchan Borole
+
+**Mentors:** Divyanshu Garg, Himanshu, Daniel Rossberg
 ---
 
 ## Project Overview
