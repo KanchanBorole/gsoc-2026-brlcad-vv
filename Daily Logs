@@ -1,1 +1,36 @@
+# ***Community Bonding Period: 1 May – 24 May***
+
+## ***05/01 Fri***
+
+Discovered that my project got accepted for GSoC 🎉😊 and communicated with mentors regarding collaboration, communication channels, and how we will track progress throughout the project period.
+
+## ***05/02 Sat***
+
+Explored the repositories of BRL-CAD, Arbalest, and MOOSE, started setting up the development environment, completed the initial installations, and encountered configuration/build issues while setting up MOOSE.
+
+## ***05/03 Sun***
+
+Investigated and worked on resolving MOOSE-related issues, rebuilt BRL-CAD from source, and fixed the GDAL-related build issue by disabling the GDAL option during configuration.
+
+## ***05/04 Mon***
+
+Attempted to build the project environment on Windows once again, but the build process failed due to multiple Windows-specific dependency and configuration issues.
+
+## ***05/05 Tues***
+
+Shifted focus completely to Linux-based development, successfully built and ran BRL-CAD on Linux, and started moving towards MOOSE setup and integration.
+
+## ***05/06 Wed***
+
+Successfully built MOOSE, but while building Arbalest, the build process reached 100% and failed during the linking stage with multiple undefined reference errors related to BRL-CAD functions such as `bu_malloc`, `rt_shootray`, and `BRLCAD::CommandString`, along with a warning regarding `librt.so.20` not being found from `/usr/local/lib/libbrlcad.so`.
+
+## ***05/07 Thurs***
+
+Followed mentor advice to change installation paths using isolated local installations, encountered additional issues related to `RPATH`, `brledit`, and installation path mismatches, and cleaned and rebuilt the complete environment from source again, which took approximately 4 hours for reconfiguration and rebuilding.
+
+## ***05/08 Fri***
+
+Continued reorganizing installation paths and rebuilding the environment in a new workspace layout, correctly enabled the `MODULE_COMMANDSTRING=ON` option in MOOSE, fixed Qt compatibility issues in Arbalest source files, and successfully built and ran Arbalest 🎉
+
+
 
