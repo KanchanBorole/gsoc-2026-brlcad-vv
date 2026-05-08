@@ -6,7 +6,8 @@
 
 **Contributor:** Kanchan Borole
 
-**Mentors:** Divyanshu Garg, Himanshu, Daniel Rossberg
+**Mentors:** Divyanshu Garg, Himashu Sekhar Nayak
+
 ---
 
 ## Project Overview
