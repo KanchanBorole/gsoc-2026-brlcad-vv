@@ -32,5 +32,7 @@ Followed mentor advice to change installation paths using isolated local install
 
 Continued reorganizing installation paths and rebuilding the environment in a new workspace layout, correctly enabled the `MODULE_COMMANDSTRING=ON` option in MOOSE, fixed Qt compatibility issues in Arbalest source files, and successfully built and ran Arbalest 🎉
 
+## ***05/09 Fri***
 
+Understanding the code and logic behind Verification and validation in arbalest(old fork).
 
