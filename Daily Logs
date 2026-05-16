@@ -55,3 +55,7 @@ Does experiment with latest arbalest and added vv as a dock widget and understan
 ## ***05/15 Fri***
 
 Added Verification and Validation Functionality to menu bar and at the bottom of arbalest and experiment with loading geometry .
+
+## ***05/16 Sat***
+
+Added compile run and stop feature for vv and a popup box on clicking on warnings which give the suggested fixes and illustrate issues.
