@@ -59,3 +59,7 @@ Added Verification and Validation Functionality to menu bar and at the bottom of
 ## ***05/16 Sat***
 
 Added compile run and stop feature for vv and a popup box on clicking on warnings which give the suggested fixes and illustrate issues.
+
+## ***05/17 Sun***
+
+Added more option in the menu VV function like create test suit, create test, remove test suite, remove test and export csv. Also Added that if in the geometry name if spacing is there or bar space that it can detect.
