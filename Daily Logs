@@ -63,3 +63,7 @@ Added compile run and stop feature for vv and a popup box on clicking on warning
 ## ***05/17 Sun***
 
 Added more option in the menu VV function like create test suit, create test, remove test suite, remove test and export csv. Also Added that if in the geometry name if spacing is there or bar space that it can detect.
+
+## ***05/18 Mon***
+
+Added QTreeWidget in the VV and the popup box when click on issues and warnings. Also organised those files in the separate folder(plugins).
