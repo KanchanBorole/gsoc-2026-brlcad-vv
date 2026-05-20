@@ -67,3 +67,11 @@ Added more option in the menu VV function like create test suit, create test, re
 ## ***05/18 Mon***
 
 Added QTreeWidget in the VV and the popup box when click on issues and warnings. Also organised those files in the separate folder(plugins).
+
+## ***05/19 Tues***
+
+Analysing the old UI/UX workflow and features.
+
+## ***05/20 Wed***
+
+Added Export feature and live summary count bar to the latest arbalest.
