@@ -29,7 +29,7 @@
   cmake ~/work/src/arbalest 
   -DCMAKE_BUILD_TYPE=Debug 
   -DBRLCAD_MOOSE_DIR=~/work/inst/moose
-  -DBRLCAD__BASE_DIR=~/work/inst/brlcad
+  -DBRLCAD_BASE_DIR=~/work/inst/brlcad
 - Successfully built and run ✅
 
 ## Issues Faced
