@@ -85,3 +85,4 @@ Exploring Backend codebase and understanding the logic.
 # ***Week 1: 25 May - 31 May***
 
 - 25 May: Reviewed the V&V implementation, validated UI integration, analyzed plugin architecture feedback, and requested mentor clarification on MainWindow vs plugin-based integration before proceeding with backend development.
+- 26 May: Draft initial PR for architectural review. PR Link - https://github.com/BRL-CAD/arbalest/pull/76
