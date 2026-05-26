@@ -26,10 +26,7 @@
 ### Arbalest
 - Cloned from: https://github.com/BRL-CAD/arbalest
 - cmake command used:
-  cmake ~/work/src/arbalest 
-  -DCMAKE_BUILD_TYPE=Debug 
-  -DBRLCAD_MOOSE_DIR=~/work/inst/moose
-  -DBRLCAD_BASE_DIR=~/work/inst/brlcad
+  - cmake .. -DCMAKE_BUILD_TYPE=Debug -DBRLCAD_MOOSE_DIR=~/work/inst/moose -DBRLCAD_BASE_DIR=~/work/inst/brlcad
 - Successfully built and run ✅
 
 ## Issues Faced
