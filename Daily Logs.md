@@ -89,3 +89,8 @@ Exploring Backend codebase and understanding the logic.
 - 27 May: Analayse the backend work of old fork and planning of creating how backend workflow will be integrated in the latest arbalest.
 - 28 May: Reviewd and planned next-stage V&V result/report handling architecture.
 - 29 May: Explored next implementation direction for validation result management and report generation workflow.
+- 31 May: Fix Mainwindow.h syntax error in V&V integration in the PR - https://github.com/BRL-CAD/arbalest/pull/76
+
+# Week 2: 01 June - 07 June 
+
+- 01 June: Address V&V review feedback commit in the PR - https://github.com/BRL-CAD/arbalest/pull/76
