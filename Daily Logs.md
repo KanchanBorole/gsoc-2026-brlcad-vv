@@ -96,3 +96,4 @@ Exploring Backend codebase and understanding the logic.
 - 01 June: Address V&V review feedback commit in the PR - https://github.com/BRL-CAD/arbalest/pull/76
 - 02 June: Analyzed the current validation flow and evaluated whether the timer mechanism is necessary for existing string-based checks.
 - 03 June: Awaiting further review/comments before proceeding with additional implementation changes.
+- 04 June: Fix the VV cleanup when document is closed in the PR - https://github.com/BRL-CAD/arbalest/pull/76
