@@ -99,3 +99,8 @@ Exploring Backend codebase and understanding the logic.
 - 04 June: Fix the VV cleanup when document is closed in the PR - https://github.com/BRL-CAD/arbalest/pull/76
 - 05 June: Cleanup the PR  - https://github.com/BRL-CAD/arbalest/pull/76 by reverting some changes and removing whitespaces.
 - 06 June: Add the new missing line at the end of each file.
+
+# Week 3: 08 June - 14 June 
+
+- 08 June: PR got merged successfully. PR - https://github.com/BRL-CAD/arbalest/pull/76
+- 09 June: Asked about direction for Moose integration or result handling or any next steps.
