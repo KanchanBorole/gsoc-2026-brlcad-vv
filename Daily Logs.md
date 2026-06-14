@@ -104,3 +104,7 @@ Exploring Backend codebase and understanding the logic.
 
 - 08 June: PR got merged successfully. PR - https://github.com/BRL-CAD/arbalest/pull/76
 - 09 June: Asked about direction for Moose integration or result handling or any next steps.
+- 11 June: Got the guidance to move ahead and and explored codebase to integrate moose and asked some questions.
+- 12 June: Got the code guidance about CommandString and tried to implement it.
+- 13 June: Tried the moose implementation and group the test selelction box.
+- 14 June: Fix some crash issue and raised the PR- https://github.com/BRL-CAD/arbalest/pull/77 for review.
