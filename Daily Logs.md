@@ -109,6 +109,6 @@ Exploring Backend codebase and understanding the logic.
 - 13 June: Tried the moose implementation and group the test selelction box.
 - 14 June: Fix some crash issue and raised the PR- https://github.com/BRL-CAD/arbalest/pull/77 for review.
 
-  # Week 4: 15 June - 21 June 
+# Week 4: 15 June - 21 June 
 
 - 15 June: Update getDatabase() return type to BRLCAD::Database in PR - https://github.com/BRL-CAD/arbalest/pull/76
