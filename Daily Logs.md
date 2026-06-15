@@ -111,4 +111,4 @@ Exploring Backend codebase and understanding the logic.
 
 # Week 4: 15 June - 21 June 
 
-- 15 June: Update getDatabase() return type to BRLCAD::Database in PR - https://github.com/BRL-CAD/arbalest/pull/76
+- 15 June: Update getDatabase() return type to BRLCAD::Database in PR - https://github.com/BRL-CAD/arbalest/pull/77
