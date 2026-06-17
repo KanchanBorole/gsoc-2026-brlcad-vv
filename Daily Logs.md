@@ -112,3 +112,5 @@ Exploring Backend codebase and understanding the logic.
 # Week 4: 15 June - 21 June 
 
 - 15 June: Update getDatabase() return type to BRLCAD::Database in PR - https://github.com/BRL-CAD/arbalest/pull/77
+- 16 June: Commited in the PR (some ui backend fix)
+- 17 June: Check and test some geometries in the arbalest plugin vv.
