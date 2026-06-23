@@ -114,3 +114,10 @@ Exploring Backend codebase and understanding the logic.
 - 15 June: Update getDatabase() return type to BRLCAD::Database in PR - https://github.com/BRL-CAD/arbalest/pull/77
 - 16 June: Commited in the PR (some ui backend fix)
 - 17 June: Check and test some geometries in the arbalest plugin vv.
+- 18 June: Got the feedback about test and explain why some test are skipped.
+- 19 June: Got the advice about the gqa based test and understand it well about objectName and objectPath.
+
+# Week 5: 22 June - 28 June 
+
+- 22 June: Work on objectName and ObjectPath and also improve vv logic in tests.
+- 23 June: Commited in the PR - https://github.com/BRL-CAD/arbalest/pull/77 some changes and test the tests on geometries.
