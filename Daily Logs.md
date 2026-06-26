@@ -121,3 +121,5 @@ Exploring Backend codebase and understanding the logic.
 
 - 22 June: Work on objectName and ObjectPath and also improve vv logic in tests.
 - 23 June: Commited in the PR - https://github.com/BRL-CAD/arbalest/pull/77 some changes and test the tests on geometries.
+- 24 June: Explained about my approach baout resolvedPath on Zulip.
+- 25 June: Just ask about should I refactor the code according to the Isaac Version.
