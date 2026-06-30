@@ -123,3 +123,10 @@ Exploring Backend codebase and understanding the logic.
 - 23 June: Commited in the PR - https://github.com/BRL-CAD/arbalest/pull/77 some changes and test the tests on geometries.
 - 24 June: Explained about my approach baout resolvedPath on Zulip.
 - 25 June: Just ask about should I refactor the code according to the Isaac Version.
+- 27 June: Just tried and tested with havoc.g geometry with my current implementation and address soem path string issues.
+- 28 June: As a side experiment tried Isaac's approach of objectname and objectpath leads some errors.
+
+# Week 6: 29 June - 5 July 
+
+- 29 June: Finally fix the error and implemented Isaac's approach and tested geometry on that and share the results in chat.
+- 30 June: As results looks reasonable so I ask guidance about which approach to take on and get commit in the PR.
