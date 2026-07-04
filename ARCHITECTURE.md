@@ -78,3 +78,45 @@ specific gaps that this project will fix:
 - CSV has no header or severity grouping
 - Results shown in flat list — hard to navigate
   when there are many issues
+
+## Goal
+
+Build a graphical Verification & Validation workflow inside Arbalest.
+
+## High Level Workflow
+
+User
+      │
+      ▼
+Test Selection Dialog
+      │
+      ▼
+Validation Backend
+(libged + MOOSE Commands)
+      │
+      ▼
+Validation Results
+      │
+      ├── Results Table
+      ├── Summary Panel
+      └── Live Console
+
+## Example
+  +---------------------+
+|  Test Selection UI  |
++---------------------+
+           |
+           v
++---------------------+
+| Validation Backend  |
+| libged + MOOSE      |
++---------------------+
+           |
+           v
++---------------------+
+| Validation Results  |
++---------------------+
+      |      |
+      |      |
+ Results  Console
+ Table    Output
