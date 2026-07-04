@@ -6,7 +6,7 @@
 
 **Contributor:** Kanchan Borole
 
-**Mentors:** Divyanshu Garg, Himashu Sekhar Nayak
+**Mentors:** Divyanshu Garg, Himanshu Sekhar Nayak
 
 ---
 
