@@ -132,3 +132,5 @@ Exploring Backend codebase and understanding the logic.
 - 30 June: As results looks reasonable so I ask guidance about which approach to take on and get commit in the PR.
 - 01 July: Improve GQA based validation logic and commit in the pr. Finally after final review PR - https://github.com/BRL-CAD/arbalest/pull/77 got merged successfully.
 - 02 July: To work on next task - Focus on to do fine tuning to the vv test and ask about my approach about implmentation.
+- 03 July: Attended project meeting - Discussed about progress till now and next half improvements and tasks.
+- 04 July: Tested on multiple geometries and made a mid term summary in short 1-page and documented all progress made so far.
