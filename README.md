@@ -38,13 +38,6 @@ This GSoC project focuses on two main goals:
 
 ---
 
-## Progress Tracking
-
-All tasks tracked here:
-👉 https://github.com/users/KanchanBorole/projects/1
-
----
-
 ## Resources
 
 - [Arbalest](https://github.com/BRL-CAD/arbalest)
