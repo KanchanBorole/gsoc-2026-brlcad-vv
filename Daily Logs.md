@@ -134,3 +134,8 @@ Exploring Backend codebase and understanding the logic.
 - 02 July: To work on next task - Focus on to do fine tuning to the vv test and ask about my approach about implmentation.
 - 03 July: Attended project meeting - Discussed about progress till now and next half improvements and tasks.
 - 04 July: Tested on multiple geometries and made a mid term summary in short 1-page and documented all progress made so far.
+- 05 July: Have not sure about results table improvement so asked about it and posted the mid-term progress in the chat.
+
+# Week 7: 6 July - 12 July 
+
+- 06 July: Updated or improved the results table and separate each issues in one row and asked for guidance about duplicate ID Check.
