@@ -139,3 +139,4 @@ Exploring Backend codebase and understanding the logic.
 # Week 7: 6 July - 12 July 
 
 - 06 July: Updated or improved the results table and separate each issues in one row and asked for guidance about duplicate ID Check.
+- 07 July: Made the dropdown for filtering the errors, warnings and passed test and fixed it on right side of summary pannel.
