@@ -140,3 +140,5 @@ Exploring Backend codebase and understanding the logic.
 
 - 06 July: Updated or improved the results table and separate each issues in one row and asked for guidance about duplicate ID Check.
 - 07 July: Made the dropdown for filtering the errors, warnings and passed test and fixed it on right side of summary pannel.
+- 08 July: Made a plan about how to implement result report and what content it has in report(like errors, warnings, passed) and decided structure.
+- 09 July: Implemented a result report feature with taking results from the backend and show it in report(Txt and CSV) and done a clean rebuild and fixed some errors.
