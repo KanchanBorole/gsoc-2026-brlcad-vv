@@ -142,3 +142,4 @@ Exploring Backend codebase and understanding the logic.
 - 07 July: Made the dropdown for filtering the errors, warnings and passed test and fixed it on right side of summary pannel.
 - 08 July: Made a plan about how to implement result report and what content it has in report(like errors, warnings, passed) and decided structure.
 - 09 July: Implemented a result report feature with taking results from the backend and show it in report(Txt and CSV) and done a clean rebuild and fixed some errors.
+- 10 July: Fixed some JSON report error and updated duplicate ID Region in results table and tested it with havoc.g and shipping_container.g. Also watched the video of the v&v and undertsand it.
