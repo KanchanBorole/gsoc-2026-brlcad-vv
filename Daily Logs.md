@@ -136,6 +136,8 @@ Exploring Backend codebase and understanding the logic.
 - 04 July: Tested on multiple geometries and made a mid term summary in short 1-page and documented all progress made so far.
 - 05 July: Have not sure about results table improvement so asked about it and posted the mid-term progress in the chat.
 
+### Mid-Term Evaluation : Passed
+
 # Week 7: 6 July - 12 July 
 
 - 06 July: Updated or improved the results table and separate each issues in one row and asked for guidance about duplicate ID Check.
@@ -143,3 +145,9 @@ Exploring Backend codebase and understanding the logic.
 - 08 July: Made a plan about how to implement result report and what content it has in report(like errors, warnings, passed) and decided structure.
 - 09 July: Implemented a result report feature with taking results from the backend and show it in report(Txt and CSV) and done a clean rebuild and fixed some errors.
 - 10 July: Fixed some JSON report error and updated duplicate ID Region in results table and tested it with havoc.g and shipping_container.g. Also watched the video of the v&v and undertsand it.
+- 11 July: Fixed the updated duplicate ID Format in results table.
+- 12 July: Just tried to implement the result report concept but ran into errors and tried to fix it.
+
+# Week 8: 13 July - 19 July 
+
+- 13 July: Again understanding the architecture of the project and how will plugin be connected to arbalest and how will it be registered. Gone through the old fork code and tried to understand about remaining features and how will it get implemented in latest arbalest.
