@@ -151,3 +151,8 @@ Exploring Backend codebase and understanding the logic.
 # Week 8: 13 July - 19 July 
 
 - 13 July: Again understanding the architecture of the project and how will plugin be connected to arbalest and how will it be registered. Gone through the old fork code and tried to understand about features and how will it get implemented in latest arbalest.
+- 14 July: Added Icons folder in the plugin vv.
+- 15 July: Implemented Icons in errors, warnings, and passed test in results table.
+- 16 July: Fixed some errors in icon implementation done a clean rebuild and added progress bar in implementation.
+- 17 July: Fixed some UI work for progress bar.
+- 18 July: Fixed redundant entry of V&V and Verification & Validation in UI table header and Shared the update in chat.
