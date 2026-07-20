@@ -156,3 +156,8 @@ Exploring Backend codebase and understanding the logic.
 - 16 July: Fixed some errors in icon implementation done a clean rebuild and added progress bar in implementation.
 - 17 July: Fixed some UI work for progress bar.
 - 18 July: Fixed redundant entry of V&V and Verification & Validation in UI table header and Shared the update in chat.
+- 19 July: Finding the logic behind visual linking feature and about code structure as how it will fit into plugin.
+
+# Week 9: 20 July - 26 July
+
+- 20 July: Experimented some logic of visual linking feature but ran into error(segmentation fault).
