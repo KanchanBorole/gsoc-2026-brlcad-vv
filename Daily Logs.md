@@ -161,3 +161,5 @@ Exploring Backend codebase and understanding the logic.
 # Week 9: 20 July - 26 July
 
 - 20 July: Experimented some logic of visual linking feature but ran into error(segmentation fault).
+- 21 July: Tried to fix the segmentation fault but after that it only show full geomtry in viewport by clicking on issue.
+- 22 July: Fixed the logic to show only error based geometry in viewport and hide other parts but it worked in shipping_container.g not on havoc.g so still finding the correct logic.
