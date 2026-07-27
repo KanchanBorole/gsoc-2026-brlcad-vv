@@ -165,3 +165,9 @@ Exploring Backend codebase and understanding the logic.
 - 22 July: Fixed the logic to show only error based geometry in viewport and hide other parts but it worked in shipping_container.g not on havoc.g so still finding the correct logic.
 - 23 July: Fixed the logic but implemmented as a leaf node match as it works and also refine the logic for havoc.
 - 24 July: Worked on full path matrix to show geometry and highlight it properly only subregions.
+- 25 July: Tested it, But actually it is not working correctly on havoc as by applying full path logic somewhere there is a bug.
+- 26 July: Got the direction well about full path and matrix part and tried to understand the file geometryrenderer to apply logic on vv visualize object.
+
+# Week 10: 27 July - 2 August
+
+- 27 July: Applied the logic, corrected the earlier one and find the matrix geometry toyjeep.g and tested on it and also on shipping_container and havoc seems to be working correctly but not sure about the behavior also handled duplicate id check type tests.
