@@ -171,3 +171,6 @@ Exploring Backend codebase and understanding the logic.
 # Week 10: 27 July - 2 August
 
 - 27 July: Applied the logic, corrected the earlier one and find the matrix geometry toyjeep.g and tested on it and also on shipping_container and havoc seems to be working correctly but not sure about the behavior also handled duplicate id check type tests.
+- 28 July: Get the behavior confirmed and clean up the code and find the issue or bug behind havoc display.
+- 29 July: Started working on test result details and added the backend command logic to pick it from backend and display it in test result box(Command Name).
+- 30 July: Make some UI related changes in the test result details.
