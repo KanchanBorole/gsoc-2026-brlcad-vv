@@ -174,3 +174,6 @@ Exploring Backend codebase and understanding the logic.
 - 28 July: Get the behavior confirmed and clean up the code and find the issue or bug behind havoc display.
 - 29 July: Started working on test result details and added the backend command logic to pick it from backend and display it in test result box(Command Name).
 - 30 July: Make some UI related changes in the test result details.
+- 31 July: Resolve the error of description details.
+- 01 August: shared the update of test result details and clean up the code.
+
