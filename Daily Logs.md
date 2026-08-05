@@ -180,5 +180,5 @@ Exploring Backend codebase and understanding the logic.
 # Week 11: 3 August - 9 August 
 
 - 3 August: Worked on Report generation part and handles the logic of Text, JSON and CSV.
-- 4 August: Fixed one edge case as to store the results and update it when document gets changed or Tab Switched.
+- 4 August: Fixed one edge case as to store the results and update it when document gets changed or Tab Switched. Also attended GSoC Final submission session.
 
