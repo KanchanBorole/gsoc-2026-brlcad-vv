@@ -184,5 +184,6 @@ Exploring Backend codebase and understanding the logic.
 - 5 August: Worked on Txt format ad make it more understanding to read.
 - 6 August: Fixed some path error in txt report format.
 - 7 August: Fixed some formatting changes like path calling, indentation and issue number.
+- 8 August: Finally made the vv stuff seen in arbalest dark theme also and resolve some ui stuff and clean up the code and done a clean rebuid.
   
 
