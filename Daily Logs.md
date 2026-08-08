@@ -181,4 +181,8 @@ Exploring Backend codebase and understanding the logic.
 
 - 3 August: Worked on Report generation part and handles the logic of Text, JSON and CSV.
 - 4 August: Fixed one edge case as to store the results and update it when document gets changed or Tab Switched. Also attended GSoC Final submission session.
+- 5 August: Worked on Txt format ad make it more understanding to read.
+- 6 August: Fixed some path error in txt report format.
+- 7 August: Fixed some formatting changes like path calling, indentation and issue number.
+  
 
