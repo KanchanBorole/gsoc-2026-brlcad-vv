@@ -185,5 +185,11 @@ Exploring Backend codebase and understanding the logic.
 - 6 August: Fixed some path error in txt report format.
 - 7 August: Fixed some formatting changes like path calling, indentation and issue number.
 - 8 August: Finally made the vv stuff seen in arbalest dark theme also and resolve some ui stuff and clean up the code and done a clean rebuid.
+- 9 August: Clean and formatted the code the work done upto now.
+
+# Week 12: 10 August - 16 August 
+
+- 10 August: Design the final report structure.
+
   
 
