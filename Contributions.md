@@ -19,7 +19,7 @@
             <td>Initial Geometry Verification & Validation UI/workflow integration.</td>
         </tr>
         <tr>
-            <td>July 1th, 2026</td>
+            <td>July 1, 2026</td>
             <td><a href="https://github.com/BRL-CAD/arbalest/pull/77"> [BRL-CAD/arbalest/PR#77]</a></td>
             <td>Merged</td>
             <td>Add V&V plugin with MOOSE CommandString integration
