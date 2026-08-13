@@ -190,6 +190,8 @@ Exploring Backend codebase and understanding the logic.
 # Week 12: 10 August - 16 August 
 
 - 10 August: Design the final report structure.
+- 11 August: Worked on report and tested V&V on different geometries.
+- 13 August: Clean up the stuff and tested the tab switch handling in arbalest.
 
   
 
