@@ -81,7 +81,7 @@ specific gaps that this project will fix:
 
 ## Goal
 
-Build a graphical Verification & Validation workflow inside Arbalest.
+Build a  Verification & Validation in GUI Qt workflow inside Arbalest as a plugin architecture.
 
 ## High Level Workflow
 
