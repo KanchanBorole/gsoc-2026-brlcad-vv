@@ -193,6 +193,9 @@ Exploring Backend codebase and understanding the logic.
 - 11 August: Worked on report and tested V&V on different geometries.
 - 13 August: Clean up the stuff and tested the tab switch handling in arbalest.
 - 14 August: Split the Prs and raised it according to the features/fixes. PRs - https://github.com/BRL-CAD/arbalest/pull/78, https://github.com/BRL-CAD/arbalest/pull/79, https://github.com/BRL-CAD/arbalest/pull/80, https://github.com/BRL-CAD/arbalest/pull/81
+- 15 August: Worked on Final Report and just recorded the final demo video of tested models.
+
+
 
   
 
