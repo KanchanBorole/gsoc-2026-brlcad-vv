@@ -195,6 +195,13 @@ Exploring Backend codebase and understanding the logic.
 - 14 August: Split the Prs and raised it according to the features/fixes. PRs - https://github.com/BRL-CAD/arbalest/pull/78, https://github.com/BRL-CAD/arbalest/pull/79, https://github.com/BRL-CAD/arbalest/pull/80, https://github.com/BRL-CAD/arbalest/pull/81
 - 15 August: Worked on Final Report and just recorded the final demo video of tested models.
 
+# Week 13: 17 August - 23 August 
+
+- 17 August: Just put it all together for the final report draft.
+- 18 August: Done some formatting changes in the report.
+- 20 August: Got feedback from my mentor on the report.
+- 21 August: Completed final evaluation through GSoC Portal.
+
 
 
   
